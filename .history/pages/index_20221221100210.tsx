@@ -1,9 +1,9 @@
-import "../styles/Home.module.css";
-import { Navbar } from "../components/Navbar/Navbar";
-import { Shop } from "../pages/shop/Shop";
-import { Cart } from "../pages/cart/Cart";
-// import { Anime } from "../pages/cart/Anime";
-import { DataContextProvider } from "../components/context/DataContext";
+import "./App.css";
+import { Navbar } from "./components/Navbar/Navbar";
+import { Shop } from "./pages/shop/Shop";
+import { Cart } from "./pages/cart/Cart";
+// import { Anime } from "./pages/cart/Anime";
+import { DataContextProvider } from "./components/context/DataContext";
 import Link from "next/link";
 import { useRouter } from "next/router";
 

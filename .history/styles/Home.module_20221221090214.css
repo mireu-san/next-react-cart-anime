@@ -1,7 +1,7 @@
-/* * {
+* {
   box-sizing: border-box;
 
-} */
+}
 
 .App {
   text-align: center;
@@ -37,7 +37,7 @@
   }
 }
 
-/* .AppLogo {
+.AppLogo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -46,9 +46,9 @@
   .AppLogo {
     animation: App-logo-spin infinite 20s linear;
   }
-} */
+}
 
-/* .AppHeader {
+.AppHeader {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -57,11 +57,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-} */
+}
 
-/* .AppLink {
+.AppLink {
   color: #61dafb;
-} */
+}
 
 /* @keyframes App-logo-spin {
   from {
